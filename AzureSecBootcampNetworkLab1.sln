@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{151D2E53-A2C4-4D7D-83FE-D05416EBD58E}") = "AzureSecBootcampNetworkLab1", "AzureSecBootcampNetworkLab1\AzureSecBootcampNetworkLab1.deployproj", "{C272087B-CE2D-4FC2-93B5-52CBE1D6037D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C272087B-CE2D-4FC2-93B5-52CBE1D6037D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C272087B-CE2D-4FC2-93B5-52CBE1D6037D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C272087B-CE2D-4FC2-93B5-52CBE1D6037D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C272087B-CE2D-4FC2-93B5-52CBE1D6037D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C943ED3C-1346-455F-97F7-3D0C3AE72201}
+	EndGlobalSection
+EndGlobal
